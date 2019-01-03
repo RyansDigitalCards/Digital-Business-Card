@@ -1,0 +1,13 @@
+BEGIN:VCARD
+VERSION:3.0
+PRODID:-//Apple Inc.//iPhone OS 11.2.2//EN
+N: Cintron;Samantha;
+FN: Samantha Cintron
+ORG:NurtureU Wellness;
+TITLE:Owner
+ADR;WORK;PREF:;;165 Beach 116th Street;Rockaway;NY;11694;
+TEL;type=WORK;type=VOICE:718-634-9355
+TEL;type=WORK;type=VOICE:646-220-7006
+item1.URL;type=pref:chemdrymanhattan.com
+item1.X-ABLabel:_$!<HomePage>!$_
+END:VCARD
