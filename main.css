@@ -164,6 +164,10 @@ img.profile-pic {
     font-size: 12px;
 }
 
+.banner {
+	height: 30%;
+}
+
 .bottom {
 	height: 23%;
 }
